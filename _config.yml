@@ -1,0 +1,23 @@
+name: russlevi
+favicon: null
+layout_spectrum: 0.6169358999468386
+typography_spectrum: 0.5345950096379966
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.1263296769466251
+  lightness: 0.4164877342991531
+  saturation: 0.3063843271229416
+  rhythmicContrast: 0.23084874474443495
+purpose: []
